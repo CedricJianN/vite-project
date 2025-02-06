@@ -1,0 +1,32 @@
+
+body {
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+.subject {
+  color: black;
+}
+.container {
+  text-align: center;
+}
+
+.name {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.box {
+  background-color: rgb(255, 168, 183);
+  color: white;
+  padding: 50px;
+  padding-top: 70px;
+  display: inline-block;
+  font-size: 1.5rem;
+  border: 2px solid black;
+  height: 80px;
+}
